@@ -1,7 +1,7 @@
 # **Newton's cannonball Python**
 
 ### **PL**
-**Autorzy:** *Jakub Sierocki, Adam Zwoliński*
+**Autorzy:** *Jakub Sierocki*
 
 **Opis:** Program prezentujący eksperyment Działo Newtona. Użytkownik ma możliwość wyboru prędkości oraz kątu wystrzelenia pocisku. Program wyświetla trajektorię lotu pocisku. (Pocisk może uderzyć w Ziemię, okrążyć ją lub wypaść z pola grawitacyjnego)
 
@@ -11,7 +11,7 @@
  - math
 
 ### EN
-**Authors:** *Jakub Sierocki, Adam Zwoliński*
+**Authors:** *Jakub Sierocki*
 
 **Description:** A programme demonstrating the Newton Cannon experiment. The user can select the velocity and angle of the projectile launch. The programme displays the trajectory of the projectile. (The projectile can hit the Earth, circle it or fall out of the gravitational field).
 
